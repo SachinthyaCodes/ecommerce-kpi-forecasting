@@ -2,9 +2,9 @@
 
 A real-world time series forecasting projec##  Dashboard Preview
 
-> ** Live Demo:** [https://ecommerce-kpi-forecasting-mvhym4nxtvdktypufiaipf.streamlit.app/](https://ecommerce-kpi-forecasting-mvhym4nxtvdktypufiaipf.streamlit.app/)
+> **🚀 Live Demo:** [https://ecommerce-kpi-forecasting-mvhym4nxtvdktypufiaipf.streamlit.app/]
 > 
-> ** Video Demo:** [https://youtu.be/kAJ2TPjXUhU](https://youtu.be/kAJ2TPjXUhU)
+> **📺 Video Demo:** [https://youtu.be/kAJ2TPjXUhU]
 > 
 > **Local Access:** `streamlit run app/streamlit_app.py`
 
