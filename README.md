@@ -92,7 +92,7 @@ All KPIs are derived from real e-commerce transactions.
 - Summary metrics like growth rate vs past average
 - Table of future values with download/export potential
 
-![Dashboard Demo](https://youtu.be/kAJ2TPjXUhU)
+▶️[Dashboard Demo](https://youtu.be/kAJ2TPjXUhU)
 
 ---
 
