@@ -1,7 +1,8 @@
 # Financial KPI Forecasting Dashboard
 
-A real-world time series forecasting projec##  Dashboard Preview
+A real-world time series forecasting projec
 
+##  Dashboard Preview
 > **Live Demo:** [https://ecommerce-kpi-forecasting-mvhym4nxtvdktypufiaipf.streamlit.app/]
 > 
 > **Video Demo:** [https://youtu.be/kAJ2TPjXUhU]
