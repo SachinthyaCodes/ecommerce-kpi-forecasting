@@ -86,21 +86,21 @@ All KPIs are derived from real e-commerce transactions.
 
 > Accessible via: `streamlit run app/streamlit_app.py`
 
-### 🔹 Main Features:
+### Main Features:
 - Visualize KPI trends over time
 - 6-month forecast using Prophet
 - Summary metrics like growth rate vs past average
 - Table of future values with download/export potential
 
-![Dashboard Screenshot](dashboard_screenshot.png) <!-- You can add your image later -->
+![Dashboard Demo](https://youtu.be/kAJ2TPjXUhU)
 
 ---
 
-## 📂 How to Run Locally
+##  How to Run Locally
 
 ### 1. Clone the Repo
 ```bash
-git clone https://github.com/your-username/ecommerce-kpi-forecasting.git
+git clone https://github.com/SachinthyaCodes/ecommerce-kpi-forecasting.git
 cd ecommerce-kpi-forecasting
 ```
 
@@ -121,7 +121,7 @@ streamlit run app/streamlit_app.py
 
 ---
 
-## ✅ Results Summary
+##  Results Summary
 
 | KPI | Model Used | MSE (last 6 months) | Notes |
 |-----|------------|---------------------|-------|
@@ -133,7 +133,7 @@ ARIMA was tested but Prophet was selected for its superior accuracy, flexibility
 
 ---
 
-## 🧠 Key Learnings
+##  Key Learnings
 
 - Handling real-world messy transactional data
 - Building robust forecasting pipelines with Prophet
@@ -143,8 +143,8 @@ ARIMA was tested but Prophet was selected for its superior accuracy, flexibility
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Sachinthya Lakshitha**  
 Final-Year IT Undergraduate | Data Analytics & AI Enthusiast  
-📧 Reach me on [LinkedIn](https://linkedin.com/in/sachinthya) or sachinthya@example.com
+Reach me on [LinkedIn](https://www.linkedin.com/in/sachinthya-lakshitha/) or sachinthyaofficial@gmail.com
