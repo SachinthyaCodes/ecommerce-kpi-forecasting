@@ -1,0 +1,21 @@
+# Core data manipulation and analysis
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Data visualization
+matplotlib>=3.6.0
+seaborn>=0.11.0
+plotly>=5.11.0
+
+# Time series forecasting
+prophet>=1.1.0
+statsmodels>=0.13.0
+
+# Machine learning and evaluation
+scikit-learn>=1.1.0
+
+# Web dashboard
+streamlit>=1.28.0
+
+# Additional utilities
+warnings
