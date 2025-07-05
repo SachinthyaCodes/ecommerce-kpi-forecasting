@@ -145,6 +145,5 @@ ARIMA was tested but Prophet was selected for its superior accuracy, flexibility
 
 ##  Author
 
-**Sachinthya Lakshitha**  
-Final-Year IT Undergraduate | Data Analytics & AI Enthusiast  
+**Sachinthya Lakshitha**   
 Reach me on [LinkedIn](https://www.linkedin.com/in/sachinthya-lakshitha/) or sachinthyaofficial@gmail.com
