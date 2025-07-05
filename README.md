@@ -1,6 +1,18 @@
 # Financial KPI Forecasting Dashboard
 
-A real-world time series forecasting project to predict key performance indicators (KPIs) for a retail e-commerce business. This interactive dashboard was built using **Prophet**, **Pandas**, and **Streamlit**, designed to assist business stakeholders in making data-driven decisions by forecasting sales, quantity, and order volumes.
+A real-world time series forecasting projec##  Dashboard Preview
+
+> ** Live Demo:** [https://ecommerce-kpi-forecasting-mvhym4nxtvdktypufiaipf.streamlit.app/](https://ecommerce-kpi-forecasting-mvhym4nxtvdktypufiaipf.streamlit.app/)
+> 
+> ** Video Demo:** [https://youtu.be/kAJ2TPjXUhU](https://youtu.be/kAJ2TPjXUhU)
+> 
+> **Local Access:** `streamlit run app/streamlit_app.py`
+
+### Main Features:
+- Visualize KPI trends over time
+- 6-month forecast using Prophet
+- Summary metrics like growth rate vs past average
+- Table of future values with download/export potentialt key performance indicators (KPIs) for a retail e-commerce business. This interactive dashboard was built using **Prophet**, **Pandas**, and **Streamlit**, designed to assist business stakeholders in making data-driven decisions by forecasting sales, quantity, and order volumes.
 
 ---
 
@@ -84,15 +96,15 @@ All KPIs are derived from real e-commerce transactions.
 
 ##  Dashboard Preview
 
-> Accessible via: `streamlit run app/streamlit_app.py`
+> **Live Demo:** [https://ecommerce-kpi-forecasting-mvhym4nxtvdktypufiaipf.streamlit.app/](https://ecommerce-kpi-forecasting-mvhym4nxtvdktypufiaipf.streamlit.app/)
+> 
+> **Local Access:** `streamlit run app/streamlit_app.py`
 
 ### Main Features:
 - Visualize KPI trends over time
 - 6-month forecast using Prophet
 - Summary metrics like growth rate vs past average
 - Table of future values with download/export potential
-
-▶️[Dashboard Demo](https://youtu.be/kAJ2TPjXUhU)
 
 ---
 
