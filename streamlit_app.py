@@ -3,10 +3,10 @@ import pandas as pd
 import plotly.express as px
 
 # --- Load Data ---
-kpis = pd.read_csv('../data/monthly_kpis.csv')
-revenue_forecast = pd.read_csv('../data/revenue_forecast.csv')        
-quantity_forecast = pd.read_csv('../data/quantity_forecast.csv')
-orders_forecast = pd.read_csv('../data/orders_forecast.csv')
+kpis = pd.read_csv('/data/monthly_kpis.csv')
+revenue_forecast = pd.read_csv('/data/revenue_forecast.csv')        
+quantity_forecast = pd.read_csv('/data/quantity_forecast.csv')
+orders_forecast = pd.read_csv('/data/orders_forecast.csv')
 
 # --- Convert Dates ---
 kpis['Month'] = pd.to_datetime(kpis['Month'])
