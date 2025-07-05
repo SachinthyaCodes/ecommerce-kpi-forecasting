@@ -1,31 +1,31 @@
-# 📊 Financial KPI Forecasting Dashboard
+# Financial KPI Forecasting Dashboard
 
 A real-world time series forecasting project to predict key performance indicators (KPIs) for a retail e-commerce business. This interactive dashboard was built using **Prophet**, **Pandas**, and **Streamlit**, designed to assist business stakeholders in making data-driven decisions by forecasting sales, quantity, and order volumes.
 
 ---
 
-## 🔍 Project Overview
+## Project Overview
 
 In today's competitive business landscape, **accurate forecasting of financial metrics** is critical for demand planning, inventory control, and revenue optimization. This project builds a forecasting system using real transactional data from an online retailer and presents it through a user-friendly dashboard.
 
 ---
 
-## 🎯 Key Objectives
+## Key Objectives
 
 - Clean and transform raw retail sales data into meaningful KPIs
 - Use **Prophet time series models** to forecast:
-  - 📈 Total Revenue
-  - 📦 Total Quantity Sold
-  - 🧾 Total Orders
+  - Total Revenue
+  - Total Quantity Sold
+  - Total Orders
 - Present historical trends and future projections in an interactive dashboard using **Streamlit**
 - Empower users to interpret and compare forecast vs actual KPI performance
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
-📦 ecommerce-kpi-forecasting
+ecommerce-kpi-forecasting
 ├── app/
 │   └── streamlit_app.py         # Streamlit dashboard code
 ├── data/
@@ -46,7 +46,7 @@ In today's competitive business landscape, **accurate forecasting of financial m
 
 ---
 
-## 🧠 Forecasting Approach
+## Forecasting Approach
 
 We use **Facebook Prophet**, a robust and easy-to-use time series forecasting library, ideal for business data. It automatically handles:
 
@@ -59,7 +59,7 @@ We use **Facebook Prophet**, a robust and easy-to-use time series forecasting li
 
 ---
 
-## 📊 KPIs Forecasted
+##  KPIs Forecasted
 
 | KPI             | Description |
 |------------------|-------------|
@@ -71,7 +71,7 @@ All KPIs are derived from real e-commerce transactions.
 
 ---
 
-## 🚀 Tools & Technologies
+##  Tools & Technologies
 
 | Category        | Stack |
 |------------------|-------|
@@ -82,15 +82,15 @@ All KPIs are derived from real e-commerce transactions.
 
 ---
 
-## 📊 Dashboard Preview
+##  Dashboard Preview
 
 > Accessible via: `streamlit run app/streamlit_app.py`
 
 ### 🔹 Main Features:
-- 📈 Visualize KPI trends over time
-- 🔮 6-month forecast using Prophet
-- 💡 Summary metrics like growth rate vs past average
-- 🧾 Table of future values with download/export potential
+- Visualize KPI trends over time
+- 6-month forecast using Prophet
+- Summary metrics like growth rate vs past average
+- Table of future values with download/export potential
 
 ![Dashboard Screenshot](dashboard_screenshot.png) <!-- You can add your image later -->
 
