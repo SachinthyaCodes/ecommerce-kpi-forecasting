@@ -152,7 +152,7 @@ ARIMA was tested but Prophet was selected for its superior accuracy, flexibility
 - Building robust forecasting pipelines with Prophet
 - Creating end-to-end, deployable dashboards with Streamlit
 - Evaluating models with real KPIs like MSE
-- Translating technical insights into business-friendly visuals
+- Translating technical insights into business-friendly visuals.
 
 ---
 
